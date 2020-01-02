@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>各大卫视直播</title>
+</head>
+
+<body>
+	<table span="center">
+	
+		<tr span="center">
+			<td><a href = "shanxitv1.html" target="_Blank">山西卫视</a></td>
+		</tr>
+		</br>
+		
+		<tr>
+			<td><a href = "cctv1.html" target="_Blank">CCTV-1综合</a></td>
+			<td><a href = "cctv2.html" target="_Blank">CCTV-2财经</a></td>
+			<td><a href = "cctv3.html" target="_Blank">CCTV-3综艺</a></td>
+			<td><a href = "cctv4.html" target="_Blank">CCTV-4中文国际</a></td>
+			<td><a href = "cctv5.html" target="_Blank">CCTV-5体育</a></td>
+		</tr>
+		</br>
+		
+		<tr>
+			<td><a href = "cctv6.html" target="_Blank">CCTV-6电影</a></td>
+			<td><a href = "cctv7.html" target="_Blank">CCTV-7军事农业</a></td>
+			<td><a href = "cctv8.html" target="_Blank">CCTV-8电视剧</a></td>
+			<td><a href = "cctv9.html" target="_Blank">CCTV-9记录</a></td>
+			<td><a href = "cctv10.html" target="_Blank">CCTV-10科教</a></td>
+		</tr>
+		</br>
+		
+		<tr>
+			<td><a href = "cctv11.html" target="_Blank">CCTV-11戏曲</a></td>
+			<td><a href = "cctv12.html" target="_Blank">CCTV-12社会与法</a></td>
+			<td><a href = "cctv13.html" target="_Blank">CCTV-13新闻</a></td>
+			<td><a href = "cctv14.html" target="_Blank">CCTV-14少儿</a></td>
+			<td><a href = "cctv15.html" target="_Blank">CCTV-15音乐</a></td>
+		</tr>
+		</br>
+		
+		<tr>
+			<td>---------</td>
+			<td>---------</td>
+			<td>---------</td>
+			<td>---------</td>
+			<td>---------</td>
+		</tr>
+		</br>
+		
+		<tr>
+			<td><a href = "dongfengtv.html" target="_Blank">东风卫视</a></td>
+			<td><a href = "gongdongtv.html" target="_Blank">广东卫视</a></td>
+			<td><a href = "gongxitv.html" target="_Blank">广西卫视</a></td>
+			<td><a href = "hunantv.html" target="_Blank">湖南卫视</a></td>
+			<td><a href = "shanxitv.html" target="_Blank">陕西卫视</a></td>
+		</tr>
+		</br>
+	
+	</table>
+</body>
+</html>

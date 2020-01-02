@@ -1,0 +1,34 @@
+27-Dec-2019 09:51:58.415 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.23
+27-Dec-2019 09:51:58.435 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2017 10:30:11 UTC
+27-Dec-2019 09:51:58.436 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.23.0
+27-Dec-2019 09:51:58.437 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Dec-2019 09:51:58.437 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Dec-2019 09:51:58.437 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Dec-2019 09:51:58.437 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\software\java\jdk\1.8\jre
+27-Dec-2019 09:51:58.437 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_131-b11
+27-Dec-2019 09:51:58.438 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Dec-2019 09:51:58.438 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23
+27-Dec-2019 09:51:58.438 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23
+27-Dec-2019 09:51:58.439 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23\conf\logging.properties
+27-Dec-2019 09:51:58.439 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Dec-2019 09:51:58.440 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Dec-2019 09:51:58.440 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Dec-2019 09:51:58.440 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23
+27-Dec-2019 09:51:58.441 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23
+27-Dec-2019 09:51:58.443 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23\temp
+27-Dec-2019 09:51:58.443 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.14] using APR version [1.6.2].
+27-Dec-2019 09:51:58.444 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+27-Dec-2019 09:51:58.445 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Dec-2019 09:51:59.773 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2l  25 May 2017]
+27-Dec-2019 09:52:03.045 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Dec-2019 09:52:04.463 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Dec-2019 09:52:04.477 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 09:52:04.481 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Dec-2019 09:52:04.483 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 9000 ms
+27-Dec-2019 09:52:04.671 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Dec-2019 09:52:04.671 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.23
+27-Dec-2019 09:52:04.754 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23\webapps\ROOT]
+27-Dec-2019 09:52:08.082 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\software\servers\web\apache-tomcat-8.5.23-windows-x64\apache-tomcat-8.5.23\webapps\ROOT] has finished in [3,314] ms
+27-Dec-2019 09:52:08.089 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Dec-2019 09:52:08.121 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 09:52:08.133 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 3648 ms
